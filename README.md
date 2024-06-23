@@ -30,5 +30,6 @@ The model is trained on a dataset with the following columns:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/comment-toxicity-model.git
-   cd comment-toxicity-model
+   git clone https://github.com/Vishalpatil0111/comment-toxicity.git
+   cd comment-toxicity
+   
